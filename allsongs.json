@@ -1,0 +1,1990 @@
+[
+  {
+    "rank":33,
+    "song":"Come & Get It",
+    "artist":"Selena Gomez",
+    "genre":"pop",
+    "percent":0.771428571
+  },
+  {
+    "rank":65,
+    "song":"Lets Go",
+    "artist":"Calvin Harris feat. Ne-Yo",
+    "genre":"pop",
+    "percent":0.769230769
+  },
+  {
+    "rank":34,
+    "song":"Hold On, Were Going Home",
+    "artist":"Drake feat. Majid Jordan",
+    "genre":"rnb",
+    "percent":0.75
+  },
+  {
+    "rank":27,
+    "song":"Diamonds",
+    "artist":"Rihanna",
+    "genre":"pop",
+    "percent":0.743589744
+  },
+  {
+    "rank":12,
+    "song":"S&M",
+    "artist":"Rihanna",
+    "genre":"pop",
+    "percent":0.734693878
+  },
+  {
+    "rank":29,
+    "song":"Safe And Sound",
+    "artist":"Capital Cities",
+    "genre":"pop",
+    "percent":0.734375
+  },
+  {
+    "rank":74,
+    "song":"Let Me Love You (Until You Learn To Love Yourself)",
+    "artist":"Ne-Yo",
+    "genre":"pop",
+    "percent":0.726190476
+  },
+  {
+    "rank":48,
+    "song":"You Make Me Feel...",
+    "artist":"Cobra Starship feat. Sabi",
+    "genre":"pop",
+    "percent":0.724489796
+  },
+  {
+    "rank":28,
+    "song":"I Love It",
+    "artist":"Icona Pop feat. Charli XCX",
+    "genre":"pop",
+    "percent":0.711111111
+  },
+  {
+    "rank":63,
+    "song":"Counting Stars",
+    "artist":"OneRepublic",
+    "genre":"pop",
+    "percent":0.709401709
+  },
+  {
+    "rank":25,
+    "song":"Sail",
+    "artist":"AWOLNATION",
+    "genre":"alternative rock",
+    "percent":0.708333333
+  },
+  {
+    "rank":46,
+    "song":"I Wanna Go",
+    "artist":"Britney Spears",
+    "genre":"pop",
+    "percent":0.701754386
+  },
+  {
+    "rank":46,
+    "song":"Domino",
+    "artist":"Jessie J",
+    "genre":"pop",
+    "percent":0.701149425
+  },
+  {
+    "rank":37,
+    "song":"Applause",
+    "artist":"Lady Gaga",
+    "genre":"pop",
+    "percent":0.698924731
+  },
+  {
+    "rank":23,
+    "song":"Scream & Shout",
+    "artist":"will.i.am",
+    "genre":"pop",
+    "percent":0.697841727
+  },
+  {
+    "rank":38,
+    "song":"Good Time",
+    "artist":"Owl City",
+    "genre":"pop",
+    "percent":0.697368421
+  },
+  {
+    "rank":29,
+    "song":"The Edge Of Glory",
+    "artist":"Lady Gaga",
+    "genre":"pop",
+    "percent":0.695652174
+  },
+  {
+    "rank":42,
+    "song":"Feel So Close",
+    "artist":"Calvin Harris",
+    "genre":"pop",
+    "percent":0.6875
+  },
+  {
+    "rank":21,
+    "song":"Where Have You Been",
+    "artist":"Rihanna",
+    "genre":"pop",
+    "percent":0.686567164
+  },
+  {
+    "rank":13,
+    "song":"Sexy And I Know It",
+    "artist":"LMFAO",
+    "genre":"pop",
+    "percent":0.685714286
+  },
+  {
+    "rank":70,
+    "song":"Pour It Up",
+    "artist":"Rihanna",
+    "genre":"club",
+    "percent":0.684210526
+  },
+  {
+    "rank":40,
+    "song":"My Songs Know What You Did In The Dark (Light Em Up)",
+    "artist":"Fall Out Boy",
+    "genre":"alternative rock",
+    "percent":0.684210526
+  },
+  {
+    "rank":84,
+    "song":"Turn Up The Music",
+    "artist":"Chris Brown",
+    "genre":"edm",
+    "percent":0.68115942
+  },
+  {
+    "rank":14,
+    "song":"Get Lucky",
+    "artist":"Daft Punk feat. Pharrell Williams",
+    "genre":"funk",
+    "percent":0.67961165
+  },
+  {
+    "rank":61,
+    "song":"More",
+    "artist":"Usher",
+    "genre":"pop",
+    "percent":0.672413793
+  },
+  {
+    "rank":5,
+    "song":"Lights",
+    "artist":"Ellie Goulding",
+    "genre":"indie pop",
+    "percent":0.671875
+  },
+  {
+    "rank":64,
+    "song":"I Cry",
+    "artist":"Flo Rida",
+    "genre":"hiphop",
+    "percent":0.669117647
+  },
+  {
+    "rank":97,
+    "song":"Let Her Go",
+    "artist":"Passenger",
+    "genre":"indie pop",
+    "percent":0.666666667
+  },
+  {
+    "rank":55,
+    "song":"Gangnam Style",
+    "artist":"Psy",
+    "genre":"kpop",
+    "percent":0.666666667
+  },
+  {
+    "rank":6,
+    "song":"Glad You Came",
+    "artist":"The Wanted",
+    "genre":"pop",
+    "percent":0.660714286
+  },
+  {
+    "rank":10,
+    "song":"Roar",
+    "artist":"Katy Perry",
+    "genre":"pop",
+    "percent":0.658227848
+  },
+  {
+    "rank":68,
+    "song":"Catch My Breath",
+    "artist":"Kelly Clarkson",
+    "genre":"pop",
+    "percent":0.647058824
+  },
+  {
+    "rank":72,
+    "song":"Climax",
+    "artist":"Usher",
+    "genre":"quiet storm",
+    "percent":0.644067797
+  },
+  {
+    "rank":82,
+    "song":"Troublemaker",
+    "artist":"Olly Murs feat. Flo Rida",
+    "genre":"rnb",
+    "percent":0.642857143
+  },
+  {
+    "rank":24,
+    "song":"Titanium",
+    "artist":"David Guetta feat. Sia",
+    "genre":"pop",
+    "percent":0.642857143
+  },
+  {
+    "rank":3,
+    "song":"Radioactive",
+    "artist":"Imagine Dragons",
+    "genre":"alternative rock",
+    "percent":0.642857143
+  },
+  {
+    "rank":8,
+    "song":"We Found Love",
+    "artist":"Rihanna feat. Calvin Harris",
+    "genre":"pop",
+    "percent":0.641025641
+  },
+  {
+    "rank":51,
+    "song":"Love Somebody",
+    "artist":"Maroon 5",
+    "genre":"pop",
+    "percent":0.64
+  },
+  {
+    "rank":27,
+    "song":"Till The World Ends",
+    "artist":"Britney Spears",
+    "genre":"pop",
+    "percent":0.638554217
+  },
+  {
+    "rank":1,
+    "song":"Rolling In The Deep",
+    "artist":"Adele",
+    "genre":"soul",
+    "percent":0.634146341
+  },
+  {
+    "rank":11,
+    "song":"Locked Out Of Heaven",
+    "artist":"Bruno Mars",
+    "genre":"funk",
+    "percent":0.633333333
+  },
+  {
+    "rank":26,
+    "song":"Dont You Worry Child",
+    "artist":"Swedish House Mafia feat. John Martin",
+    "genre":"edm",
+    "percent":0.632653061
+  },
+  {
+    "rank":72,
+    "song":"Like A G6",
+    "artist":"Far East Movement feat. Cataracs and Dev",
+    "genre":"hip house",
+    "percent":0.631578947
+  },
+  {
+    "rank":14,
+    "song":"Last Friday Night (T.G.I.F.)",
+    "artist":"Katy Perry",
+    "genre":"pop",
+    "percent":0.627118644
+  },
+  {
+    "rank":69,
+    "song":"Paradise",
+    "artist":"Coldplay",
+    "genre":"rnb",
+    "percent":0.623188406
+  },
+  {
+    "rank":73,
+    "song":"Work Hard, Play Hard",
+    "artist":"Wiz Khalifa",
+    "genre":"hiphop",
+    "percent":0.622222222
+  },
+  {
+    "rank":54,
+    "song":"Stereo Love",
+    "artist":"Edward Maya",
+    "genre":"pop",
+    "percent":0.62195122
+  },
+  {
+    "rank":56,
+    "song":"Dont Wake Me Up",
+    "artist":"Chris Brown",
+    "genre":"edm",
+    "percent":0.619047619
+  },
+  {
+    "rank":77,
+    "song":"Cheers (Drink To That)",
+    "artist":"Rihanna",
+    "genre":"pop",
+    "percent":0.616666667
+  },
+  {
+    "rank":45,
+    "song":"Summertime Sadness",
+    "artist":"Lana Del Rey",
+    "genre":"indie pop",
+    "percent":0.609375
+  },
+  {
+    "rank":32,
+    "song":"Started From The Bottom",
+    "artist":"Drake",
+    "genre":"hiphop",
+    "percent":0.608108108
+  },
+  {
+    "rank":53,
+    "song":"Try",
+    "artist":"P!nk",
+    "genre":"pop",
+    "percent":0.607142857
+  },
+  {
+    "rank":64,
+    "song":"Rumour Has It",
+    "artist":"Adele",
+    "genre":"soul",
+    "percent":0.605633803
+  },
+  {
+    "rank":65,
+    "song":"Little Talks",
+    "artist":"Of Monsters And Men",
+    "genre":"indie folk",
+    "percent":0.605633803
+  },
+  {
+    "rank":62,
+    "song":"What The Hell",
+    "artist":"Avril Lavigne",
+    "genre":"pop",
+    "percent":0.605263158
+  },
+  {
+    "rank":13,
+    "song":"Pumped Up Kicks",
+    "artist":"Foster The People",
+    "genre":"indie pop",
+    "percent":0.6
+  },
+  {
+    "rank":37,
+    "song":"Blow Me (One Last Kiss)",
+    "artist":"P!nk",
+    "genre":"pop",
+    "percent":0.598484848
+  },
+  {
+    "rank":5,
+    "song":"Give Me Everything",
+    "artist":"Pitbull feat. Ne-Yo, Afrojack and Nayer",
+    "genre":"hip house",
+    "percent":0.596638655
+  },
+  {
+    "rank":91,
+    "song":"Its Time",
+    "artist":"Imagine Dragons",
+    "genre":"alternative rock",
+    "percent":0.596491228
+  },
+  {
+    "rank":47,
+    "song":"Its Time",
+    "artist":"Imagine Dragons",
+    "genre":"alternative rock",
+    "percent":0.596491228
+  },
+  {
+    "rank":18,
+    "song":"Wrecking Ball",
+    "artist":"Miley Cyrus",
+    "genre":"pop",
+    "percent":0.593220339
+  },
+  {
+    "rank":44,
+    "song":"Dynamite",
+    "artist":"Taio Cruz",
+    "genre":"pop",
+    "percent":0.592592593
+  },
+  {
+    "rank":56,
+    "song":"I Need Your Love",
+    "artist":"Calvin Harris feat. Ellie Goulding",
+    "genre":"pop",
+    "percent":0.592105263
+  },
+  {
+    "rank":70,
+    "song":"Pretty Girl Rock",
+    "artist":"Keri Hilson",
+    "genre":"rnb",
+    "percent":0.59
+  },
+  {
+    "rank":84,
+    "song":"Backseat",
+    "artist":"New Boyz feat. The Cataracs and Dev",
+    "genre":"hiphop",
+    "percent":0.58974359
+  },
+  {
+    "rank":68,
+    "song":"Dont You Wanna Stay",
+    "artist":"Jason Aldean",
+    "genre":"country",
+    "percent":0.58974359
+  },
+  {
+    "rank":20,
+    "song":"Whats My Name?",
+    "artist":"Rihanna feat. Drake",
+    "genre":"rnb",
+    "percent":0.589285714
+  },
+  {
+    "rank":66,
+    "song":"The Other Side",
+    "artist":"Jason Derulo",
+    "genre":"rnb",
+    "percent":0.589041096
+  },
+  {
+    "rank":59,
+    "song":"All Of The Lights",
+    "artist":"Kanye West",
+    "genre":"hiphop",
+    "percent":0.585714286
+  },
+  {
+    "rank":79,
+    "song":"Barefoot Blue Jean Night",
+    "artist":"Jake Owen",
+    "genre":"country",
+    "percent":0.584615385
+  },
+  {
+    "rank":75,
+    "song":"Teenage Dream",
+    "artist":"Katy Perry",
+    "genre":"pop",
+    "percent":0.581818182
+  },
+  {
+    "rank":45,
+    "song":"Rack City",
+    "artist":"Tyga",
+    "genre":"hiphop",
+    "percent":0.581632653
+  },
+  {
+    "rank":19,
+    "song":"Drive By",
+    "artist":"Train",
+    "genre":"pop",
+    "percent":0.578947368
+  },
+  {
+    "rank":35,
+    "song":"Daylight",
+    "artist":"Maroon 5",
+    "genre":"soft rock",
+    "percent":0.578125
+  },
+  {
+    "rank":96,
+    "song":"Brave",
+    "artist":"Sara Bareilles",
+    "genre":"pop",
+    "percent":0.575757576
+  },
+  {
+    "rank":30,
+    "song":"We R Who We R",
+    "artist":"Ke$Ha",
+    "genre":"pop",
+    "percent":0.575342466
+  },
+  {
+    "rank":31,
+    "song":"Part Of Me",
+    "artist":"Katy Perry",
+    "genre":"pop",
+    "percent":0.571428571
+  },
+  {
+    "rank":44,
+    "song":"Scream",
+    "artist":"Usher",
+    "genre":"pop",
+    "percent":0.571428571
+  },
+  {
+    "rank":57,
+    "song":"Die Young",
+    "artist":"Ke$ha",
+    "genre":"pop",
+    "percent":0.571428571
+  },
+  {
+    "rank":83,
+    "song":"In The Dark",
+    "artist":"Dev",
+    "genre":"pop",
+    "percent":0.568965517
+  },
+  {
+    "rank":88,
+    "song":"Next To Me",
+    "artist":"Emeli Sande",
+    "genre":"rnb",
+    "percent":0.568181818
+  },
+  {
+    "rank":2,
+    "song":"Call Me Maybe",
+    "artist":"Carly Rae Jepsen",
+    "genre":"pop",
+    "percent":0.567164179
+  },
+  {
+    "rank":35,
+    "song":"Turn Me On",
+    "artist":"David Guetta feat. Nicki Minaj",
+    "genre":"pop",
+    "percent":0.566037736
+  },
+  {
+    "rank":31,
+    "song":"Black And Yellow",
+    "artist":"Wiz Khalifa",
+    "genre":"hiphop",
+    "percent":0.565789474
+  },
+  {
+    "rank":91,
+    "song":"Please Dont Go",
+    "artist":"Mike Posner",
+    "genre":"pop",
+    "percent":0.564516129
+  },
+  {
+    "rank":7,
+    "song":"F**K You (Forget You)",
+    "artist":"Cee Lo Green",
+    "genre":"pop",
+    "percent":0.563380282
+  },
+  {
+    "rank":10,
+    "song":"What Makes You Beautiful",
+    "artist":"One Direction",
+    "genre":"pop",
+    "percent":0.563380282
+  },
+  {
+    "rank":18,
+    "song":"Born This Way",
+    "artist":"Lady Gaga",
+    "genre":"pop",
+    "percent":0.561983471
+  },
+  {
+    "rank":7,
+    "song":"Stronger (What Doesnt Kill You)",
+    "artist":"Kelly Clarkson",
+    "genre":"pop",
+    "percent":0.561643836
+  },
+  {
+    "rank":46,
+    "song":"Home",
+    "artist":"Phillip Phillips",
+    "genre":"pop",
+    "percent":0.56
+  },
+  {
+    "rank":67,
+    "song":"Pontoon",
+    "artist":"Little Big Town",
+    "genre":"country",
+    "percent":0.559322034
+  },
+  {
+    "rank":89,
+    "song":"She Aint You",
+    "artist":"Chris Brown",
+    "genre":"rnb",
+    "percent":0.557142857
+  },
+  {
+    "rank":89,
+    "song":"You Da One",
+    "artist":"Rihanna",
+    "genre":"pop",
+    "percent":0.556962025
+  },
+  {
+    "rank":17,
+    "song":"Raise Your Glass",
+    "artist":"Pink",
+    "genre":"pop",
+    "percent":0.555555556
+  },
+  {
+    "rank":55,
+    "song":"Want U Back",
+    "artist":"Cher Lloyd",
+    "genre":"pop",
+    "percent":0.555555556
+  },
+  {
+    "rank":99,
+    "song":"Im Different",
+    "artist":"2 Chainz",
+    "genre":"hiphop",
+    "percent":0.555555556
+  },
+  {
+    "rank":24,
+    "song":"Clarity",
+    "artist":"Zedd feat. Foxes",
+    "genre":"edm",
+    "percent":0.555555556
+  },
+  {
+    "rank":3,
+    "song":"Firework",
+    "artist":"Katy Perry",
+    "genre":"pop",
+    "percent":0.553846154
+  },
+  {
+    "rank":16,
+    "song":"I Knew You Were Trouble",
+    "artist":"Taylor Swift",
+    "genre":"pop",
+    "percent":0.553846154
+  },
+  {
+    "rank":98,
+    "song":"Runnin Outta Moonlight",
+    "artist":"Randy Houser",
+    "genre":"country",
+    "percent":0.553846154
+  },
+  {
+    "rank":75,
+    "song":"Pound The Alarm",
+    "artist":"Nicki Minaj",
+    "genre":"pop",
+    "percent":0.553571429
+  },
+  {
+    "rank":80,
+    "song":"So Good",
+    "artist":"B.o.B",
+    "genre":"hiphop",
+    "percent":0.551724138
+  },
+  {
+    "rank":30,
+    "song":"Too Close",
+    "artist":"Alex Clare",
+    "genre":"alternative rock",
+    "percent":0.55
+  },
+  {
+    "rank":12,
+    "song":"Ho Hey",
+    "artist":"The Lumineers",
+    "genre":"indie folk",
+    "percent":0.545454545
+  },
+  {
+    "rank":30,
+    "song":"Treasure",
+    "artist":"Bruno Mars",
+    "genre":"funk",
+    "percent":0.545454545
+  },
+  {
+    "rank":93,
+    "song":"I Dont Want This Night To End",
+    "artist":"Luke Bryan",
+    "genre":"country",
+    "percent":0.540540541
+  },
+  {
+    "rank":83,
+    "song":"Love You Like A Love Song",
+    "artist":"Selena Gomez",
+    "genre":"pop",
+    "percent":0.53968254
+  },
+  {
+    "rank":81,
+    "song":"Country Girl (Shake It For Me)",
+    "artist":"Luke Bryan",
+    "genre":"country",
+    "percent":0.5375
+  },
+  {
+    "rank":40,
+    "song":"Only Girl (In The World)",
+    "artist":"Rihanna",
+    "genre":"pop",
+    "percent":0.537313433
+  },
+  {
+    "rank":100,
+    "song":"Still Into You",
+    "artist":"Paramore",
+    "genre":"pop",
+    "percent":0.537037037
+  },
+  {
+    "rank":81,
+    "song":"50 Ways To Say Goodbye",
+    "artist":"Train",
+    "genre":"pop",
+    "percent":0.536231884
+  },
+  {
+    "rank":16,
+    "song":"Tonight (Im Lovin You)",
+    "artist":"Enrique Iglesias feat. Ludacris and DJ Frank E",
+    "genre":"pop",
+    "percent":0.532467532
+  },
+  {
+    "rank":60,
+    "song":"Hold It Against Me",
+    "artist":"Britney Spears",
+    "genre":"pop",
+    "percent":0.532258065
+  },
+  {
+    "rank":4,
+    "song":"E.T.",
+    "artist":"Katy Perry feat. Kanye West",
+    "genre":"pop",
+    "percent":0.530864198
+  },
+  {
+    "rank":62,
+    "song":"Back In Time",
+    "artist":"Pitbull",
+    "genre":"hip house",
+    "percent":0.530612245
+  },
+  {
+    "rank":33,
+    "song":"Blow",
+    "artist":"Ke$Ha",
+    "genre":"pop",
+    "percent":0.53030303
+  },
+  {
+    "rank":88,
+    "song":"Where Them Girls At",
+    "artist":"David Guetta feat. Flo Rida and Nicki Minaj",
+    "genre":"hip house",
+    "percent":0.530120482
+  },
+  {
+    "rank":87,
+    "song":"A Thousand Years",
+    "artist":"Christina Perri",
+    "genre":"pop",
+    "percent":0.529411765
+  },
+  {
+    "rank":57,
+    "song":"Dance (A$$)",
+    "artist":"Big Sean feat. Nicki Minaj",
+    "genre":"hiphop",
+    "percent":0.529411765
+  },
+  {
+    "rank":87,
+    "song":"Dont Wanna Go Home",
+    "artist":"Jason Derulo",
+    "genre":"pop",
+    "percent":0.528571429
+  },
+  {
+    "rank":94,
+    "song":"Get Your Shine On",
+    "artist":"Florida Georgia Line",
+    "genre":"country",
+    "percent":0.527272727
+  },
+  {
+    "rank":95,
+    "song":"#thatPOWER",
+    "artist":"will.i.am feat. Justin Bieber",
+    "genre":"pop",
+    "percent":0.526315789
+  },
+  {
+    "rank":17,
+    "song":"We Cant Stop",
+    "artist":"Miley Cyrus",
+    "genre":"pop",
+    "percent":0.525773196
+  },
+  {
+    "rank":22,
+    "song":"Everybody Talks",
+    "artist":"Neon Trees",
+    "genre":"pop",
+    "percent":0.525423729
+  },
+  {
+    "rank":80,
+    "song":"Sure Be Cool If You Did",
+    "artist":"Blake Shelton",
+    "genre":"country",
+    "percent":0.525
+  },
+  {
+    "rank":17,
+    "song":"Whistle",
+    "artist":"Flo Rida",
+    "genre":"hip house",
+    "percent":0.524752475
+  },
+  {
+    "rank":15,
+    "song":"Wide Awake",
+    "artist":"Katy Perry",
+    "genre":"pop",
+    "percent":0.523255814
+  },
+  {
+    "rank":9,
+    "song":"Cruise",
+    "artist":"Florida Georgia Line feat. Nelly",
+    "genre":"country",
+    "percent":0.523076923
+  },
+  {
+    "rank":48,
+    "song":"International Love",
+    "artist":"Pitbull feat. Chris Brown",
+    "genre":"pop",
+    "percent":0.518867925
+  },
+  {
+    "rank":77,
+    "song":"Heart Attack",
+    "artist":"Trey Songz",
+    "genre":"rnb",
+    "percent":0.518518519
+  },
+  {
+    "rank":100,
+    "song":"Burn It Down",
+    "artist":"Linkin Park",
+    "genre":"pop",
+    "percent":0.517241379
+  },
+  {
+    "rank":15,
+    "song":"Royals",
+    "artist":"Lorde",
+    "genre":"pop",
+    "percent":0.516666667
+  },
+  {
+    "rank":39,
+    "song":"Love Me",
+    "artist":"Lil Wayne feat. Drake and Future",
+    "genre":"hiphop",
+    "percent":0.51552795
+  },
+  {
+    "rank":54,
+    "song":"No Lie",
+    "artist":"2 Chainz feat. Drake",
+    "genre":"hiphop",
+    "percent":0.514705882
+  },
+  {
+    "rank":34,
+    "song":"As Long as You Love Me",
+    "artist":"Justin Bieber feat. Big Sean",
+    "genre":"rnb",
+    "percent":0.512605042
+  },
+  {
+    "rank":24,
+    "song":"Someone Like You",
+    "artist":"Adele",
+    "genre":"soul",
+    "percent":0.509803922
+  },
+  {
+    "rank":88,
+    "song":"Take A Little Ride",
+    "artist":"Jason Aldean",
+    "genre":"country",
+    "percent":0.509090909
+  },
+  {
+    "rank":97,
+    "song":"Animal",
+    "artist":"Neon Trees",
+    "genre":"alternative rock",
+    "percent":0.50877193
+  },
+  {
+    "rank":18,
+    "song":"One More Night",
+    "artist":"Maroon 5",
+    "genre":"pop",
+    "percent":0.506329114
+  },
+  {
+    "rank":92,
+    "song":"Cashin Out",
+    "artist":"Ca$h Out",
+    "genre":"hiphop",
+    "percent":0.505882353
+  },
+  {
+    "rank":79,
+    "song":"Swimming Pools (Drank)",
+    "artist":"Kendrick Lamar",
+    "genre":"hiphop",
+    "percent":0.505376344
+  },
+  {
+    "rank":28,
+    "song":"The Show Goes On",
+    "artist":"Lupe Fiasco",
+    "genre":"hiphop",
+    "percent":0.504950495
+  },
+  {
+    "rank":6,
+    "song":"Mirrors",
+    "artist":"Justin Timberlake",
+    "genre":"rnb",
+    "percent":0.5
+  },
+  {
+    "rank":13,
+    "song":"Stay",
+    "artist":"Rihanna feat. Mikky Ekko",
+    "genre":"pop",
+    "percent":0.5
+  },
+  {
+    "rank":55,
+    "song":"Jar Of Hearts",
+    "artist":"Christina Perri",
+    "genre":"alternative rock",
+    "percent":0.5
+  },
+  {
+    "rank":66,
+    "song":"For The First Time",
+    "artist":"The Script",
+    "genre":"alternative rock",
+    "percent":0.5
+  },
+  {
+    "rank":86,
+    "song":"5 OClock",
+    "artist":"T-Pain feat. Wiz Khalifa and Lily Allen",
+    "genre":"hiphop",
+    "percent":0.496
+  },
+  {
+    "rank":39,
+    "song":"Give Your Heart A Break",
+    "artist":"Demi Lovato",
+    "genre":"pop",
+    "percent":0.493975904
+  },
+  {
+    "rank":58,
+    "song":"Rocketeer",
+    "artist":"Far East Movement feat. Ryan Tedder",
+    "genre":"hiphop",
+    "percent":0.493506494
+  },
+  {
+    "rank":35,
+    "song":"If I Die Young",
+    "artist":"The Band Perry",
+    "genre":"country",
+    "percent":0.490909091
+  },
+  {
+    "rank":77,
+    "song":"Highway Dont Care",
+    "artist":"Tim McGraw",
+    "genre":"country",
+    "percent":0.490566038
+  },
+  {
+    "rank":9,
+    "song":"Starships",
+    "artist":"Nicki Minaj",
+    "genre":"pop",
+    "percent":0.489795918
+  },
+  {
+    "rank":23,
+    "song":"How To Love",
+    "artist":"Lil Wayne",
+    "genre":"rnb",
+    "percent":0.4875
+  },
+  {
+    "rank":50,
+    "song":"Heart Attack",
+    "artist":"Demi Lovato",
+    "genre":"pop",
+    "percent":0.486486486
+  },
+  {
+    "rank":43,
+    "song":"Dirt Road Anthem",
+    "artist":"Jason Aldean",
+    "genre":"country",
+    "percent":0.486486486
+  },
+  {
+    "rank":67,
+    "song":"Honey Bee",
+    "artist":"Blake Shelton",
+    "genre":"country",
+    "percent":0.484375
+  },
+  {
+    "rank":85,
+    "song":"Hall Of Fame",
+    "artist":"The Script feat. will.i.am",
+    "genre":"pop",
+    "percent":0.482142857
+  },
+  {
+    "rank":16,
+    "song":"Good Feeling",
+    "artist":"Flo Rida",
+    "genre":"hip house",
+    "percent":0.481481481
+  },
+  {
+    "rank":71,
+    "song":"You And I",
+    "artist":"Lady Gaga",
+    "genre":"rock and roll",
+    "percent":0.481012658
+  },
+  {
+    "rank":62,
+    "song":"Demons",
+    "artist":"Imagine Dragons",
+    "genre":"alternative rock",
+    "percent":0.481012658
+  },
+  {
+    "rank":52,
+    "song":"Just A Dream",
+    "artist":"Nelly",
+    "genre":"rnb",
+    "percent":0.47761194
+  },
+  {
+    "rank":15,
+    "song":"Just The Way You Are",
+    "artist":"Bruno Mars",
+    "genre":"pop",
+    "percent":0.477272727
+  },
+  {
+    "rank":19,
+    "song":"Wake Me Up!",
+    "artist":"Avicii",
+    "genre":"edm",
+    "percent":0.477272727
+  },
+  {
+    "rank":76,
+    "song":"Crazy Girl",
+    "artist":"Eli Young Band",
+    "genre":"country",
+    "percent":0.477272727
+  },
+  {
+    "rank":53,
+    "song":"Drunk On You",
+    "artist":"Luke Bryan",
+    "genre":"country",
+    "percent":0.475
+  },
+  {
+    "rank":3,
+    "song":"We Are Young",
+    "artist":"fun. feat. Janelle Monae",
+    "genre":"indie pop",
+    "percent":0.474576271
+  },
+  {
+    "rank":70,
+    "song":"Blown Away",
+    "artist":"Carrie Underwood",
+    "genre":"country",
+    "percent":0.473684211
+  },
+  {
+    "rank":74,
+    "song":"Best Song Ever",
+    "artist":"One Direction",
+    "genre":"pop",
+    "percent":0.471428571
+  },
+  {
+    "rank":99,
+    "song":"Even If It Breaks Your Heart",
+    "artist":"Eli Young Band",
+    "genre":"country",
+    "percent":0.470588235
+  },
+  {
+    "rank":90,
+    "song":"We Run The Night",
+    "artist":"Havana Brown feat. Pitbull",
+    "genre":"pop",
+    "percent":0.46875
+  },
+  {
+    "rank":76,
+    "song":"Come Over",
+    "artist":"Kenny Chesney",
+    "genre":"edm",
+    "percent":0.46875
+  },
+  {
+    "rank":40,
+    "song":"Niggas In Paris",
+    "artist":"Jay Z",
+    "genre":"hip house",
+    "percent":0.468085106
+  },
+  {
+    "rank":10,
+    "song":"Just Cant Get Enough",
+    "artist":"The Black Eyed Peas",
+    "genre":"pop",
+    "percent":0.466666667
+  },
+  {
+    "rank":64,
+    "song":"Bottoms Up",
+    "artist":"Trey Songz feat. Nicki Minaj",
+    "genre":"rnb",
+    "percent":0.465648855
+  },
+  {
+    "rank":1,
+    "song":"Somebody That I Used To Know",
+    "artist":"Gotye feat. Kimbra",
+    "genre":"indie pop",
+    "percent":0.465517241
+  },
+  {
+    "rank":26,
+    "song":"The Lazy Song",
+    "artist":"Bruno Mars",
+    "genre":"funk",
+    "percent":0.465517241
+  },
+  {
+    "rank":60,
+    "song":"Not Over You",
+    "artist":"Gavin DeGraw",
+    "genre":"pop",
+    "percent":0.464285714
+  },
+  {
+    "rank":82,
+    "song":"Red Solo Cup",
+    "artist":"Toby Keith",
+    "genre":"country",
+    "percent":0.462686567
+  },
+  {
+    "rank":36,
+    "song":"Stereo Hearts",
+    "artist":"Gym Class Heroes feat. Adam Levine",
+    "genre":"pop",
+    "percent":0.460674157
+  },
+  {
+    "rank":7,
+    "song":"Just Give Me A Reason",
+    "artist":"P!nk",
+    "genre":"pop",
+    "percent":0.454545455
+  },
+  {
+    "rank":69,
+    "song":"Crash My Party",
+    "artist":"Luke Bryan",
+    "genre":"country",
+    "percent":0.454545455
+  },
+  {
+    "rank":92,
+    "song":"Sure Thing",
+    "artist":"Miguel",
+    "genre":"rnb",
+    "percent":0.453333333
+  },
+  {
+    "rank":4,
+    "song":"Payphone",
+    "artist":"Maroon 5 feat. Wiz Khalifa",
+    "genre":"pop",
+    "percent":0.453333333
+  },
+  {
+    "rank":78,
+    "song":"Thats My Kind Of Night",
+    "artist":"Luke Bryan",
+    "genre":"country",
+    "percent":0.452830189
+  },
+  {
+    "rank":36,
+    "song":"Feel This Moment",
+    "artist":"Pitbull feat. Christina Aguilera",
+    "genre":"pop",
+    "percent":0.452054795
+  },
+  {
+    "rank":27,
+    "song":"Mercy",
+    "artist":"Kanye West",
+    "genre":"hiphop",
+    "percent":0.450704225
+  },
+  {
+    "rank":32,
+    "song":"Young, Wild and Free",
+    "artist":"Wiz Khalifa",
+    "genre":"hiphop",
+    "percent":0.45
+  },
+  {
+    "rank":9,
+    "song":"Moves Like Jagger",
+    "artist":"Maroon 5 feat. Christina Aguilera",
+    "genre":"pop",
+    "percent":0.449541284
+  },
+  {
+    "rank":78,
+    "song":"Who Says",
+    "artist":"Selena Gomez",
+    "genre":"pop",
+    "percent":0.449438202
+  },
+  {
+    "rank":8,
+    "song":"Super Bass",
+    "artist":"Nicki Minaj",
+    "genre":"pop",
+    "percent":0.448979592
+  },
+  {
+    "rank":59,
+    "song":"Brokenhearted",
+    "artist":"Karmin",
+    "genre":"pop",
+    "percent":0.446808511
+  },
+  {
+    "rank":63,
+    "song":"Work Out",
+    "artist":"J. Cole",
+    "genre":"hiphop",
+    "percent":0.445378151
+  },
+  {
+    "rank":56,
+    "song":"Roll Up",
+    "artist":"Wiz Khalifa",
+    "genre":"pop",
+    "percent":0.444444444
+  },
+  {
+    "rank":63,
+    "song":"Written In The Stars",
+    "artist":"Tinie Tempah feat. Eric Turner",
+    "genre":"hiphop",
+    "percent":0.444444444
+  },
+  {
+    "rank":5,
+    "song":"Cant Hold Us",
+    "artist":"Macklemore",
+    "genre":"hiphop",
+    "percent":0.444444444
+  },
+  {
+    "rank":75,
+    "song":"The A Team",
+    "artist":"Ed Sheeran",
+    "genre":"folk",
+    "percent":0.444444444
+  },
+  {
+    "rank":44,
+    "song":"Sweet Nothing",
+    "artist":"Calvin Harris feat. Florence Welch",
+    "genre":"edm",
+    "percent":0.444444444
+  },
+  {
+    "rank":1,
+    "song":"Thrift Shop",
+    "artist":"Macklemore",
+    "genre":"hiphop",
+    "percent":0.442477876
+  },
+  {
+    "rank":73,
+    "song":"The Fox",
+    "artist":"Ylvis",
+    "genre":"edm",
+    "percent":0.441176471
+  },
+  {
+    "rank":12,
+    "song":"Set Fire To The Rain",
+    "artist":"Adele",
+    "genre":"soul",
+    "percent":0.438596491
+  },
+  {
+    "rank":41,
+    "song":"The One That Got Away",
+    "artist":"Katy Perry",
+    "genre":"pop",
+    "percent":0.434782609
+  },
+  {
+    "rank":38,
+    "song":"Coming Home",
+    "artist":"Diddy - Dirty Money feat. Skylar Grey",
+    "genre":"hiphop",
+    "percent":0.434782609
+  },
+  {
+    "rank":39,
+    "song":"Hey Baby (Drop It To The Floor)",
+    "artist":"Pitbull feat. T-Pain",
+    "genre":"hip house",
+    "percent":0.43373494
+  },
+  {
+    "rank":93,
+    "song":"Price Tag",
+    "artist":"Jessie J feat. B.O.B",
+    "genre":"pop",
+    "percent":0.432989691
+  },
+  {
+    "rank":79,
+    "song":"Birthday Cake",
+    "artist":"Rihanna feat. Chris Brown",
+    "genre":"hiphop",
+    "percent":0.431818182
+  },
+  {
+    "rank":42,
+    "song":"Beauty And A Beat",
+    "artist":"Justin Bieber feat. Nicki Minaj",
+    "genre":"pop",
+    "percent":0.431372549
+  },
+  {
+    "rank":54,
+    "song":"Wagon Wheel",
+    "artist":"Darius Rucker",
+    "genre":"country",
+    "percent":0.428571429
+  },
+  {
+    "rank":60,
+    "song":"Boys Round Here",
+    "artist":"Blake Shelton feat. Pistol Annies and Friends",
+    "genre":"country",
+    "percent":0.428571429
+  },
+  {
+    "rank":42,
+    "song":"Just A Kiss",
+    "artist":"Lady Antebellum",
+    "genre":"country",
+    "percent":0.425925926
+  },
+  {
+    "rank":49,
+    "song":"Girl On Fire",
+    "artist":"Alicia Keys feat. Nicki Minaj",
+    "genre":"rnb",
+    "percent":0.425531915
+  },
+  {
+    "rank":11,
+    "song":"Wild Ones",
+    "artist":"Flo Rida feat. Sia",
+    "genre":"hip house",
+    "percent":0.422222222
+  },
+  {
+    "rank":31,
+    "song":"The Way",
+    "artist":"Ariana Grande feat. Mac Miller",
+    "genre":"rnb",
+    "percent":0.421052632
+  },
+  {
+    "rank":37,
+    "song":"The Time (Dirty Bit)",
+    "artist":"The Black Eyed Peas",
+    "genre":"pop",
+    "percent":0.421052632
+  },
+  {
+    "rank":33,
+    "song":"We Are Never Ever Getting Back Together",
+    "artist":"Taylor Swift",
+    "genre":"pop",
+    "percent":0.42
+  },
+  {
+    "rank":49,
+    "song":"Yeah 3x",
+    "artist":"Chris Brown",
+    "genre":"pop",
+    "percent":0.419354839
+  },
+  {
+    "rank":32,
+    "song":"Tonight Tonight",
+    "artist":"Hot Chelle Rae",
+    "genre":"pop",
+    "percent":0.418918919
+  },
+  {
+    "rank":51,
+    "song":"Ass Back Home",
+    "artist":"Gym Class Heroes feat. Neon Hitch",
+    "genre":"hiphop",
+    "percent":0.413333333
+  },
+  {
+    "rank":94,
+    "song":"God Gave Me You",
+    "artist":"Blake Shelton",
+    "genre":"country",
+    "percent":0.409090909
+  },
+  {
+    "rank":95,
+    "song":"Hard To Love",
+    "artist":"Lee Brice",
+    "genre":"country",
+    "percent":0.409090909
+  },
+  {
+    "rank":20,
+    "song":"Suit & Tie",
+    "artist":"Justin Timberlake",
+    "genre":"rnb",
+    "percent":0.408333333
+  },
+  {
+    "rank":89,
+    "song":"Mamas Broken Heart",
+    "artist":"Miranda Lambert",
+    "genre":"country",
+    "percent":0.404761905
+  },
+  {
+    "rank":86,
+    "song":"Best Thing I Never Had",
+    "artist":"Beyonce",
+    "genre":"rnb",
+    "percent":0.402985075
+  },
+  {
+    "rank":71,
+    "song":"22",
+    "artist":"Taylor Swift",
+    "genre":"pop",
+    "percent":0.4
+  },
+  {
+    "rank":22,
+    "song":"Holy Grail",
+    "artist":"Jay Z",
+    "genre":"hiphop",
+    "percent":0.396825397
+  },
+  {
+    "rank":43,
+    "song":"Same Love",
+    "artist":"Macklemore",
+    "genre":"hiphop",
+    "percent":0.396694215
+  },
+  {
+    "rank":87,
+    "song":"U.O.E.N.O.",
+    "artist":"Rocko feat. Future and Rick Ross",
+    "genre":"hiphop",
+    "percent":0.394736842
+  },
+  {
+    "rank":50,
+    "song":"Without You",
+    "artist":"David Guetta feat. Usher",
+    "genre":"pop",
+    "percent":0.393939394
+  },
+  {
+    "rank":51,
+    "song":"I Need A Doctor",
+    "artist":"Dr. Dre feat. Eminem and Skylar Grey",
+    "genre":"hiphop",
+    "percent":0.393939394
+  },
+  {
+    "rank":98,
+    "song":"You And Tequila",
+    "artist":"Kenny Chesney feat. Grace Potter",
+    "genre":"country",
+    "percent":0.388888889
+  },
+  {
+    "rank":52,
+    "song":"I Will Wait",
+    "artist":"Mumford and Sons",
+    "genre":"indie folk",
+    "percent":0.387755102
+  },
+  {
+    "rank":72,
+    "song":"I Want Crazy",
+    "artist":"Hunter Hayes",
+    "genre":"country",
+    "percent":0.385964912
+  },
+  {
+    "rank":26,
+    "song":"It Will Rain",
+    "artist":"Bruno Mars",
+    "genre":"rnb",
+    "percent":0.384615385
+  },
+  {
+    "rank":91,
+    "song":"Bugatti",
+    "artist":"Ace Hood feat. Future and Rick Ross",
+    "genre":"hiphop",
+    "percent":0.38
+  },
+  {
+    "rank":80,
+    "song":"Knee Deep",
+    "artist":"Zac Brown Band feat. Jimmy Buffett",
+    "genre":"country",
+    "percent":0.377358491
+  },
+  {
+    "rank":52,
+    "song":"Wanted",
+    "artist":"Hunter Hayes",
+    "genre":"country",
+    "percent":0.37254902
+  },
+  {
+    "rank":90,
+    "song":"It Goes Like This",
+    "artist":"Thomas Rhett",
+    "genre":"country",
+    "percent":0.371428571
+  },
+  {
+    "rank":48,
+    "song":"Power Trip",
+    "artist":"J. Cole feat. Miguel",
+    "genre":"hiphop",
+    "percent":0.364864865
+  },
+  {
+    "rank":21,
+    "song":"Cups (Pitch Perfects When Im Gone)",
+    "artist":"Anna Kendrick",
+    "genre":"pop",
+    "percent":0.363636364
+  },
+  {
+    "rank":67,
+    "song":"Berzerk",
+    "artist":"Eminem",
+    "genre":"hiphop",
+    "percent":0.363636364
+  },
+  {
+    "rank":96,
+    "song":"Somethin Bout A Truck",
+    "artist":"Kip Moore",
+    "genre":"country",
+    "percent":0.358974359
+  },
+  {
+    "rank":2,
+    "song":"Blurred Lines",
+    "artist":"Robin Thicke feat. T.I. and Pharrell",
+    "genre":"rnb",
+    "percent":0.357615894
+  },
+  {
+    "rank":28,
+    "song":"Boyfriend",
+    "artist":"Justin Bieber",
+    "genre":"rnb",
+    "percent":0.357142857
+  },
+  {
+    "rank":11,
+    "song":"On The Floor",
+    "artist":"Jennifer Lopez feat. Pitbull",
+    "genre":"pop",
+    "percent":0.356435644
+  },
+  {
+    "rank":93,
+    "song":"Downtown",
+    "artist":"Lady Antebellum",
+    "genre":"country",
+    "percent":0.35
+  },
+  {
+    "rank":20,
+    "song":"The Motto",
+    "artist":"Drake feat. Lil Wayne",
+    "genre":"hiphop",
+    "percent":0.345679012
+  },
+  {
+    "rank":23,
+    "song":"Take Care",
+    "artist":"Drake feat. Rihanna",
+    "genre":"club",
+    "percent":0.341463415
+  },
+  {
+    "rank":41,
+    "song":"Fuckin Problems",
+    "artist":"ASAP Rocky",
+    "genre":"hiphop",
+    "percent":0.337209302
+  },
+  {
+    "rank":53,
+    "song":"Motivation",
+    "artist":"Kelly Rowland feat. Lil Wayne",
+    "genre":"rnb",
+    "percent":0.333333333
+  },
+  {
+    "rank":34,
+    "song":"Lighters",
+    "artist":"Bad Meets Evil feat. Bruno Mars",
+    "genre":"hiphop",
+    "percent":0.333333333
+  },
+  {
+    "rank":95,
+    "song":"She Will",
+    "artist":"Lil Wayne feat. Drake",
+    "genre":"hiphop",
+    "percent":0.333333333
+  },
+  {
+    "rank":78,
+    "song":"Drank In My Cup",
+    "artist":"Kirko Bangz",
+    "genre":"hiphop",
+    "percent":0.333333333
+  },
+  {
+    "rank":100,
+    "song":"My Last",
+    "artist":"Big Sean feat. Chris Brown",
+    "genre":"hiphop",
+    "percent":0.329411765
+  },
+  {
+    "rank":61,
+    "song":"Gone, Gone, Gone",
+    "artist":"Phillip Phillips",
+    "genre":"pop",
+    "percent":0.327272727
+  },
+  {
+    "rank":22,
+    "song":"Down On Me",
+    "artist":"Jeremih feat. 50 Cent",
+    "genre":"rnb",
+    "percent":0.326732673
+  },
+  {
+    "rank":76,
+    "song":"Carry On",
+    "artist":"fun.",
+    "genre":"indie rock",
+    "percent":0.315068493
+  },
+  {
+    "rank":59,
+    "song":"Bad",
+    "artist":"Wale feat. Tiara Thomas or Rihanna",
+    "genre":"hiphop",
+    "percent":0.313953488
+  },
+  {
+    "rank":45,
+    "song":"No Hands",
+    "artist":"Waka Flocka Flame feat. Roscoe Dash and Wale",
+    "genre":"hiphop",
+    "percent":0.31372549
+  },
+  {
+    "rank":25,
+    "song":"I Wont Give Up",
+    "artist":"Jason Mraz",
+    "genre":"folk",
+    "percent":0.31372549
+  },
+  {
+    "rank":65,
+    "song":"DJ Got Us Fallin In Love",
+    "artist":"Usher feat. Pitbull",
+    "genre":"edm",
+    "percent":0.310344828
+  },
+  {
+    "rank":50,
+    "song":"Moment 4 Life",
+    "artist":"Nicki Minaj feat. Drake",
+    "genre":"rnb",
+    "percent":0.30952381
+  },
+  {
+    "rank":19,
+    "song":"F**Kin Perfect",
+    "artist":"Pink",
+    "genre":"pop",
+    "percent":0.306122449
+  },
+  {
+    "rank":85,
+    "song":"Headlines",
+    "artist":"Drake",
+    "genre":"hiphop",
+    "percent":0.305555556
+  },
+  {
+    "rank":74,
+    "song":"Back To December",
+    "artist":"Taylor Swift",
+    "genre":"country",
+    "percent":0.303571429
+  },
+  {
+    "rank":90,
+    "song":"Take A Back Road",
+    "artist":"Rodney Atkins",
+    "genre":"country",
+    "percent":0.301587302
+  },
+  {
+    "rank":2,
+    "song":"Party Rock Anthem",
+    "artist":"LMFAO feat. Lauren Bennett and GoonRock",
+    "genre":"hip house",
+    "percent":0.300970874
+  },
+  {
+    "rank":29,
+    "song":"Party Rock Anthem",
+    "artist":"LMFAO feat. Lauren Bennett and GoonRock",
+    "genre":"hip house",
+    "percent":0.300970874
+  },
+  {
+    "rank":66,
+    "song":"Good Girl",
+    "artist":"Carrie Underwood",
+    "genre":"country",
+    "percent":0.3
+  },
+  {
+    "rank":96,
+    "song":"Are You Gonna Kiss Me Or Not",
+    "artist":"Thompson Square",
+    "genre":"country",
+    "percent":0.29787234
+  },
+  {
+    "rank":14,
+    "song":"Some Nights",
+    "artist":"fun.",
+    "genre":"alternative rock",
+    "percent":0.293103448
+  },
+  {
+    "rank":81,
+    "song":"#Beautiful",
+    "artist":"Mariah Carey feat. Miguel",
+    "genre":"pop",
+    "percent":0.292682927
+  },
+  {
+    "rank":82,
+    "song":"Remind Me",
+    "artist":"Brad Paisley",
+    "genre":"country",
+    "percent":0.272727273
+  },
+  {
+    "rank":99,
+    "song":"Colder Weather",
+    "artist":"Zac Brown Band",
+    "genre":"country",
+    "percent":0.264150943
+  },
+  {
+    "rank":21,
+    "song":"Look At Me Now",
+    "artist":"Chris Brown feat. Lil Wayne and Busta Rhymes",
+    "genre":"hiphop",
+    "percent":0.261538462
+  },
+  {
+    "rank":47,
+    "song":"Im On One",
+    "artist":"DJ Khaled feat. Drake, Rick Ross and Lil Wayne",
+    "genre":"hiphop",
+    "percent":0.257731959
+  },
+  {
+    "rank":98,
+    "song":"Fly Over States",
+    "artist":"Jason Aldean",
+    "genre":"country",
+    "percent":0.236842105
+  },
+  {
+    "rank":8,
+    "song":"When I Was Your Man",
+    "artist":"Bruno Mars",
+    "genre":"pop",
+    "percent":0.235294118
+  },
+  {
+    "rank":83,
+    "song":"Body Party",
+    "artist":"Ciara",
+    "genre":"rnb",
+    "percent":0.225
+  },
+  {
+    "rank":6,
+    "song":"Grenade",
+    "artist":"Bruno Mars",
+    "genre":"pop",
+    "percent":0.222222222
+  },
+  {
+    "rank":58,
+    "song":"Springsteen",
+    "artist":"Eric Church",
+    "genre":"country",
+    "percent":0.222222222
+  },
+  {
+    "rank":41,
+    "song":"6 Foot 7 Foot",
+    "artist":"Lil Wayne feat. Cory Gunz",
+    "genre":"hiphop",
+    "percent":0.179245283
+  },
+  {
+    "rank":4,
+    "song":"Harlem Shake",
+    "artist":"Baauer",
+    "genre":"hiphop",
+    "percent":0.153846154
+  },
+  {
+    "rank":97,
+    "song":"Adorn",
+    "artist":"Miguel",
+    "genre":"rnb",
+    "percent":0.134615385
+  },
+  {
+    "rank":84,
+    "song":"Adorn",
+    "artist":"Miguel",
+    "genre":"rnb",
+    "percent":0.134615385
+  },
+  {
+    "rank":25,
+    "song":"Good Life",
+    "artist":"OneRepublic",
+    "genre":"pop",
+    "percent":0.115942029
+  }
+]

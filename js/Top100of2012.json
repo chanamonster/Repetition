@@ -1,0 +1,514 @@
+{
+  "name": "Top 100 Songs of 2012 - Billboard",
+  "lastrunstatus": "success",
+  "version": 1,
+  "count": 100,
+  "frequency": "monthly",
+  "newdata": true,
+  "lastsuccess": "Tue Feb 25 2014 17:46:19 GMT+0000 (UTC)",
+  "nextrun": "Sat Mar 01 2014 00:00:00 GMT+0000 (UTC)",
+  "results": {
+    "collection1": [
+      {
+        "Rank": "1",
+        "SongTitle": "Somebody That I Used To Know",
+        "Artist": "Gotye feat. Kimbra"
+      },
+      {
+        "Rank": "2",
+        "SongTitle": "Call Me Maybe",
+        "Artist": "Carly Rae Jepsen"
+      },
+      {
+        "Rank": "3",
+        "SongTitle": "We Are Young",
+        "Artist": "fun. feat. Janelle Monae"
+      },
+      {
+        "Rank": "4",
+        "SongTitle": "Payphone",
+        "Artist": "Maroon 5 feat. Wiz Khalifa"
+      },
+      {
+        "Rank": "5",
+        "SongTitle": "Lights",
+        "Artist": "Ellie Goulding"
+      },
+      {
+        "Rank": "6",
+        "SongTitle": "Glad You Came",
+        "Artist": "The Wanted"
+      },
+      {
+        "Rank": "7",
+        "SongTitle": "Stronger (What Doesn't Kill You)",
+        "Artist": "Kelly Clarkson"
+      },
+      {
+        "Rank": "8",
+        "SongTitle": "We Found Love",
+        "Artist": "Rihanna feat. Calvin Harris"
+      },
+      {
+        "Rank": "9",
+        "SongTitle": "Starships",
+        "Artist": "Nicki Minaj"
+      },
+      {
+        "Rank": "10",
+        "SongTitle": "What Makes You Beautiful",
+        "Artist": "One Direction"
+      },
+      {
+        "Rank": "11",
+        "SongTitle": "Wild Ones",
+        "Artist": "Flo Rida feat. Sia"
+      },
+      {
+        "Rank": "12",
+        "SongTitle": "Set Fire To The Rain",
+        "Artist": "Adele"
+      },
+      {
+        "Rank": "13",
+        "SongTitle": "Sexy And I Know It",
+        "Artist": "LMFAO"
+      },
+      {
+        "Rank": "14",
+        "SongTitle": "Some Nights",
+        "Artist": "fun."
+      },
+      {
+        "Rank": "15",
+        "SongTitle": "Wide Awake",
+        "Artist": "Katy Perry"
+      },
+      {
+        "Rank": "16",
+        "SongTitle": "Good Feeling",
+        "Artist": "Flo Rida"
+      },
+      {
+        "Rank": "17",
+        "SongTitle": "Whistle",
+        "Artist": "Flo Rida"
+      },
+      {
+        "Rank": "18",
+        "SongTitle": "One More Night",
+        "Artist": "Maroon 5"
+      },
+      {
+        "Rank": "19",
+        "SongTitle": "Drive By",
+        "Artist": "Train"
+      },
+      {
+        "Rank": "20",
+        "SongTitle": "The Motto",
+        "Artist": "Drake feat. Lil Wayne"
+      },
+      {
+        "Rank": "21",
+        "SongTitle": "Where Have You Been",
+        "Artist": "Rihanna"
+      },
+      {
+        "Rank": "22",
+        "SongTitle": "Everybody Talks",
+        "Artist": "Neon Trees"
+      },
+      {
+        "Rank": "23",
+        "SongTitle": "Take Care",
+        "Artist": "Drake feat. Rihanna"
+      },
+      {
+        "Rank": "24",
+        "SongTitle": "Titanium",
+        "Artist": "David Guetta feat. Sia"
+      },
+      {
+        "Rank": "25",
+        "SongTitle": "I Won't Give Up",
+        "Artist": "Jason Mraz"
+      },
+      {
+        "Rank": "26",
+        "SongTitle": "It Will Rain",
+        "Artist": "Bruno Mars"
+      },
+      {
+        "Rank": "27",
+        "SongTitle": "Mercy",
+        "Artist": "Kanye West, Big Sean, Pusha T, 2 Chainz"
+      },
+      {
+        "Rank": "28",
+        "SongTitle": "Boyfriend",
+        "Artist": "Justin Bieber"
+      },
+      {
+        "Rank": "29",
+        "SongTitle": "Party Rock Anthem",
+        "Artist": "LMFAO feat. Lauren Bennett and GoonRock"
+      },
+      {
+        "Rank": "30",
+        "SongTitle": "Too Close",
+        "Artist": "Alex Clare"
+      },
+      {
+        "Rank": "31",
+        "SongTitle": "Part Of Me",
+        "Artist": "Katy Perry"
+      },
+      {
+        "Rank": "32",
+        "SongTitle": "Young, Wild and Free",
+        "Artist": "Snoop Dogg and Wiz Khalifa feat. Bruno Mars"
+      },
+      {
+        "Rank": "33",
+        "SongTitle": "We Are Never Ever Getting Back Together",
+        "Artist": "Taylor Swift"
+      },
+      {
+        "Rank": "34",
+        "SongTitle": "As Long as You Love Me",
+        "Artist": "Justin Bieber feat. Big Sean"
+      },
+      {
+        "Rank": "35",
+        "SongTitle": "Turn Me On",
+        "Artist": "David Guetta feat. Nicki Minaj"
+      },
+      {
+        "Rank": "36",
+        "SongTitle": "Moves Like Jagger",
+        "Artist": "Maroon 5 feat. Christina Aguilera"
+      },
+      {
+        "Rank": "37",
+        "SongTitle": "Blow Me (One Last Kiss)",
+        "Artist": "P!nk"
+      },
+      {
+        "Rank": "38",
+        "SongTitle": "Good Time",
+        "Artist": "Owl City and Carly Rae Jepsen"
+      },
+      {
+        "Rank": "39",
+        "SongTitle": "Give Your Heart A Break",
+        "Artist": "Demi Lovato"
+      },
+      {
+        "Rank": "40",
+        "SongTitle": "Ni**As In Paris",
+        "Artist": "Jay Z and Kanye West"
+      },
+      {
+        "Rank": "41",
+        "SongTitle": "The One That Got Away",
+        "Artist": "Katy Perry"
+      },
+      {
+        "Rank": "42",
+        "SongTitle": "Feel So Close",
+        "Artist": "Calvin Harris"
+      },
+      {
+        "Rank": "43",
+        "SongTitle": "Someone Like You",
+        "Artist": "Adele"
+      },
+      {
+        "Rank": "44",
+        "SongTitle": "Scream",
+        "Artist": "Usher"
+      },
+      {
+        "Rank": "45",
+        "SongTitle": "Rack City",
+        "Artist": "Tyga"
+      },
+      {
+        "Rank": "46",
+        "SongTitle": "Domino",
+        "Artist": "Jessie J"
+      },
+      {
+        "Rank": "47",
+        "SongTitle": "Gangnam Style",
+        "Artist": "Psy"
+      },
+      {
+        "Rank": "48",
+        "SongTitle": "International Love",
+        "Artist": "Pitbull feat. Chris Brown"
+      },
+      {
+        "Rank": "49",
+        "SongTitle": "Home",
+        "Artist": "Phillip Phillips"
+      },
+      {
+        "Rank": "50",
+        "SongTitle": "Without You",
+        "Artist": "David Guetta feat. Usher"
+      },
+      {
+        "Rank": "51",
+        "SongTitle": "Ass Back Home",
+        "Artist": "Gym Class Heroes feat. Neon Hitch"
+      },
+      {
+        "Rank": "52",
+        "SongTitle": "Wanted",
+        "Artist": "Hunter Hayes"
+      },
+      {
+        "Rank": "53",
+        "SongTitle": "Drunk On You",
+        "Artist": "Luke Bryan"
+      },
+      {
+        "Rank": "54",
+        "SongTitle": "No Lie",
+        "Artist": "2 Chainz feat. Drake"
+      },
+      {
+        "Rank": "55",
+        "SongTitle": "Want U Back",
+        "Artist": "Cher Lloyd"
+      },
+      {
+        "Rank": "56",
+        "SongTitle": "Don't Wake Me Up",
+        "Artist": "Chris Brown"
+      },
+      {
+        "Rank": "57",
+        "SongTitle": "Dance (A$$)",
+        "Artist": "Big Sean feat. Nicki Minaj"
+      },
+      {
+        "Rank": "58",
+        "SongTitle": "Springsteen",
+        "Artist": "Eric Church"
+      },
+      {
+        "Rank": "59",
+        "SongTitle": "Brokenhearted",
+        "Artist": "Karmin"
+      },
+      {
+        "Rank": "60",
+        "SongTitle": "Not Over You",
+        "Artist": "Gavin DeGraw"
+      },
+      {
+        "Rank": "61",
+        "SongTitle": "Stereo Hearts",
+        "Artist": "Gym Class Heroes feat. Adam Levine"
+      },
+      {
+        "Rank": "62",
+        "SongTitle": "Back In Time",
+        "Artist": "Pitbull"
+      },
+      {
+        "Rank": "63",
+        "SongTitle": "Work Out",
+        "Artist": "J. Cole"
+      },
+      {
+        "Rank": "64",
+        "SongTitle": "Rumour Has It",
+        "Artist": "Adele"
+      },
+      {
+        "Rank": "65",
+        "SongTitle": "Let's Go",
+        "Artist": "Calvin Harris feat. Ne-Yo"
+      },
+      {
+        "Rank": "66",
+        "SongTitle": "Good Girl",
+        "Artist": "Carrie Underwood"
+      },
+      {
+        "Rank": "67",
+        "SongTitle": "Pontoon",
+        "Artist": "Little Big Town"
+      },
+      {
+        "Rank": "68",
+        "SongTitle": "Ho Hey",
+        "Artist": "The Lumineers"
+      },
+      {
+        "Rank": "69",
+        "SongTitle": "Paradise",
+        "Artist": "Coldplay"
+      },
+      {
+        "Rank": "70",
+        "SongTitle": "Blown Away",
+        "Artist": "Carrie Underwood"
+      },
+      {
+        "Rank": "71",
+        "SongTitle": "Rolling In The Deep",
+        "Artist": "Adele"
+      },
+      {
+        "Rank": "72",
+        "SongTitle": "Climax",
+        "Artist": "Usher"
+      },
+      {
+        "Rank": "73",
+        "SongTitle": "Work Hard, Play Hard",
+        "Artist": "Wiz Khalifa"
+      },
+      {
+        "Rank": "74",
+        "SongTitle": "Let Me Love You (Until You Learn To Love Yourself)",
+        "Artist": "Ne-Yo"
+      },
+      {
+        "Rank": "75",
+        "SongTitle": "Pound The Alarm",
+        "Artist": "Nicki Minaj"
+      },
+      {
+        "Rank": "76",
+        "SongTitle": "Come Over",
+        "Artist": "Kenny Chesney"
+      },
+      {
+        "Rank": "77",
+        "SongTitle": "Heart Attack",
+        "Artist": "Trey Songz"
+      },
+      {
+        "Rank": "78",
+        "SongTitle": "Drank In My Cup",
+        "Artist": "Kirko Bangz"
+      },
+      {
+        "Rank": "79",
+        "SongTitle": "Birthday Cake",
+        "Artist": "Rihanna feat. Chris Brown"
+      },
+      {
+        "Rank": "80",
+        "SongTitle": "So Good",
+        "Artist": "B.o.B"
+      },
+      {
+        "Rank": "81",
+        "SongTitle": "50 Ways To Say Goodbye",
+        "Artist": "Train"
+      },
+      {
+        "Rank": "82",
+        "SongTitle": "Red Solo Cup",
+        "Artist": "Toby Keith"
+      },
+      {
+        "Rank": "83",
+        "SongTitle": "Love You Like A Love Song",
+        "Artist": "Selena Gomez and The Scene"
+      },
+      {
+        "Rank": "84",
+        "SongTitle": "Turn Up The Music",
+        "Artist": "Chris Brown"
+      },
+      {
+        "Rank": "85",
+        "SongTitle": "Die Young",
+        "Artist": "Ke$ha"
+      },
+      {
+        "Rank": "86",
+        "SongTitle": "5 O'Clock",
+        "Artist": "T-Pain feat. Wiz Khalifa and Lily Allen"
+      },
+      {
+        "Rank": "87",
+        "SongTitle": "A Thousand Years",
+        "Artist": "Christina Perri"
+      },
+      {
+        "Rank": "88",
+        "SongTitle": "Take A Little Ride",
+        "Artist": "Jason Aldean"
+      },
+      {
+        "Rank": "89",
+        "SongTitle": "You Da One",
+        "Artist": "Rihanna"
+      },
+      {
+        "Rank": "90",
+        "SongTitle": "We Run The Night",
+        "Artist": "Havana Brown feat. Pitbull"
+      },
+      {
+        "Rank": "91",
+        "SongTitle": "It's Time",
+        "Artist": "Imagine Dragons"
+      },
+      {
+        "Rank": "92",
+        "SongTitle": "Cashin' Out",
+        "Artist": "Ca$h Out"
+      },
+      {
+        "Rank": "93",
+        "SongTitle": "I Don't Want This Night To End",
+        "Artist": "Luke Bryan"
+      },
+      {
+        "Rank": "94",
+        "SongTitle": "Diamonds",
+        "Artist": "Rihanna"
+      },
+      {
+        "Rank": "95",
+        "SongTitle": "Hard To Love",
+        "Artist": "Lee Brice"
+      },
+      {
+        "Rank": "96",
+        "SongTitle": "Somethin' 'Bout A Truck",
+        "Artist": "Kip Moore"
+      },
+      {
+        "Rank": "97",
+        "SongTitle": "Adorn",
+        "Artist": "Miguel"
+      },
+      {
+        "Rank": "98",
+        "SongTitle": "Fly Over States",
+        "Artist": "Jason Aldean"
+      },
+      {
+        "Rank": "99",
+        "SongTitle": "Even If It Breaks Your Heart",
+        "Artist": "Eli Young Band"
+      },
+      {
+        "Rank": "100",
+        "SongTitle": "Burn It Down",
+        "Artist": "Linkin Park"
+      }
+    ]
+  }
+}

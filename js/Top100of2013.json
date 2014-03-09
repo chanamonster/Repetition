@@ -1,0 +1,514 @@
+{
+  "name": "Top 100 Songs of 2013 - Billboard",
+  "lastrunstatus": "success",
+  "version": 1,
+  "count": 100,
+  "frequency": "monthly",
+  "newdata": true,
+  "lastsuccess": "Tue Feb 25 2014 17:41:18 GMT+0000 (UTC)",
+  "nextrun": "Sat Mar 01 2014 00:00:00 GMT+0000 (UTC)",
+  "results": {
+    "collection1": [
+      {
+        "Rank": "1",
+        "SongTitle": "Thrift Shop",
+        "Artist": "Macklemore and Ryan Lewis feat. Wanz"
+      },
+      {
+        "Rank": "2",
+        "SongTitle": "Blurred Lines",
+        "Artist": "Robin Thicke feat. T.I. and Pharrell"
+      },
+      {
+        "Rank": "3",
+        "SongTitle": "Radioactive",
+        "Artist": "Imagine Dragons"
+      },
+      {
+        "Rank": "4",
+        "SongTitle": "Harlem Shake",
+        "Artist": "Baauer"
+      },
+      {
+        "Rank": "5",
+        "SongTitle": "Can't Hold Us",
+        "Artist": "Macklemore and Ryan Lewis feat. Ray Dalton"
+      },
+      {
+        "Rank": "6",
+        "SongTitle": "Mirrors",
+        "Artist": "Justin Timberlake"
+      },
+      {
+        "Rank": "7",
+        "SongTitle": "Just Give Me A Reason",
+        "Artist": "P!nk feat. Nate Ruess"
+      },
+      {
+        "Rank": "8",
+        "SongTitle": "When I Was Your Man",
+        "Artist": "Bruno Mars"
+      },
+      {
+        "Rank": "9",
+        "SongTitle": "Cruise",
+        "Artist": "Florida Georgia Line feat. Nelly"
+      },
+      {
+        "Rank": "10",
+        "SongTitle": "Roar",
+        "Artist": "Katy Perry"
+      },
+      {
+        "Rank": "11",
+        "SongTitle": "Locked Out Of Heaven",
+        "Artist": "Bruno Mars"
+      },
+      {
+        "Rank": "12",
+        "SongTitle": "Ho Hey",
+        "Artist": "Lumineers"
+      },
+      {
+        "Rank": "13",
+        "SongTitle": "Stay",
+        "Artist": "Rihanna feat. Mikky Ekko"
+      },
+      {
+        "Rank": "14",
+        "SongTitle": "Get Lucky",
+        "Artist": "Daft Punk feat. Pharrell Williams"
+      },
+      {
+        "Rank": "15",
+        "SongTitle": "Royals",
+        "Artist": "Lorde"
+      },
+      {
+        "Rank": "16",
+        "SongTitle": "I Knew You Were Trouble",
+        "Artist": "Taylor Swift"
+      },
+      {
+        "Rank": "17",
+        "SongTitle": "We Can't Stop",
+        "Artist": "Miley Cyrus"
+      },
+      {
+        "Rank": "18",
+        "SongTitle": "Wrecking Ball",
+        "Artist": "Miley Cyrus"
+      },
+      {
+        "Rank": "19",
+        "SongTitle": "Wake Me Up!",
+        "Artist": "Avicii"
+      },
+      {
+        "Rank": "20",
+        "SongTitle": "Suit and Tie",
+        "Artist": "Justin Timberlake feat. Jay Z"
+      },
+      {
+        "Rank": "21",
+        "SongTitle": "Cups (Pitch Perfect's When I'm Gone)",
+        "Artist": "Anna Kendrick"
+      },
+      {
+        "Rank": "22",
+        "SongTitle": "Holy Grail",
+        "Artist": "Jay Z feat. Justin Timberlake"
+      },
+      {
+        "Rank": "23",
+        "SongTitle": "Scream and Shout",
+        "Artist": "will.i.am and Britney Spears"
+      },
+      {
+        "Rank": "24",
+        "SongTitle": "Clarity",
+        "Artist": "Zedd feat. Foxes"
+      },
+      {
+        "Rank": "25",
+        "SongTitle": "Sail",
+        "Artist": "AWOLNATION"
+      },
+      {
+        "Rank": "26",
+        "SongTitle": "Don't You Worry Child",
+        "Artist": "Swedish House Mafia feat. John Martin"
+      },
+      {
+        "Rank": "27",
+        "SongTitle": "Diamonds",
+        "Artist": "Rihanna"
+      },
+      {
+        "Rank": "28",
+        "SongTitle": "I Love It",
+        "Artist": "Icona Pop feat. Charli XCX"
+      },
+      {
+        "Rank": "29",
+        "SongTitle": "Safe And Sound",
+        "Artist": "Capital Cities"
+      },
+      {
+        "Rank": "30",
+        "SongTitle": "Treasure",
+        "Artist": "Bruno Mars"
+      },
+      {
+        "Rank": "31",
+        "SongTitle": "The Way",
+        "Artist": "Ariana Grande feat. Mac Miller"
+      },
+      {
+        "Rank": "32",
+        "SongTitle": "Started From The Bottom",
+        "Artist": "Drake"
+      },
+      {
+        "Rank": "33",
+        "SongTitle": "Come and Get It",
+        "Artist": "Selena Gomez"
+      },
+      {
+        "Rank": "34",
+        "SongTitle": "Hold On, We're Going Home",
+        "Artist": "Drake feat. Majid Jordan"
+      },
+      {
+        "Rank": "35",
+        "SongTitle": "Daylight",
+        "Artist": "Maroon 5"
+      },
+      {
+        "Rank": "36",
+        "SongTitle": "Feel This Moment",
+        "Artist": "Pitbull feat. Christina Aguilera"
+      },
+      {
+        "Rank": "37",
+        "SongTitle": "Applause",
+        "Artist": "Lady Gaga"
+      },
+      {
+        "Rank": "38",
+        "SongTitle": "One More Night",
+        "Artist": "Maroon 5"
+      },
+      {
+        "Rank": "39",
+        "SongTitle": "Love Me",
+        "Artist": "Lil Wayne feat. Drake and Future"
+      },
+      {
+        "Rank": "40",
+        "SongTitle": "My Songs Know What You Did In The Dark (Light Em Up)",
+        "Artist": "Fall Out Boy"
+      },
+      {
+        "Rank": "41",
+        "SongTitle": "F**kin Problems",
+        "Artist": "A$AP Rocky feat. Drake, 2 Chainz and Kendrick Lamar"
+      },
+      {
+        "Rank": "42",
+        "SongTitle": "Beauty And A Beat",
+        "Artist": "Justin Bieber feat. Nicki Minaj"
+      },
+      {
+        "Rank": "43",
+        "SongTitle": "Same Love",
+        "Artist": "Macklemore and Ryan Lewis feat. Mary Lambert"
+      },
+      {
+        "Rank": "44",
+        "SongTitle": "Sweet Nothing",
+        "Artist": "Calvin Harris feat. Florence Welch"
+      },
+      {
+        "Rank": "45",
+        "SongTitle": "Summertime Sadness",
+        "Artist": "Lana Del Rey and Cedric Gervais"
+      },
+      {
+        "Rank": "46",
+        "SongTitle": "Home",
+        "Artist": "Phillip Phillips"
+      },
+      {
+        "Rank": "47",
+        "SongTitle": "It's Time",
+        "Artist": "Imagine Dragons"
+      },
+      {
+        "Rank": "48",
+        "SongTitle": "Power Trip",
+        "Artist": "J. Cole feat. Miguel"
+      },
+      {
+        "Rank": "49",
+        "SongTitle": "Girl On Fire",
+        "Artist": "Alicia Keys feat. Nicki Minaj"
+      },
+      {
+        "Rank": "50",
+        "SongTitle": "Heart Attack",
+        "Artist": "Demi Lovato"
+      },
+      {
+        "Rank": "51",
+        "SongTitle": "Love Somebody",
+        "Artist": "Maroon 5"
+      },
+      {
+        "Rank": "52",
+        "SongTitle": "I Will Wait",
+        "Artist": "Mumford and Sons"
+      },
+      {
+        "Rank": "53",
+        "SongTitle": "Try",
+        "Artist": "P!nk"
+      },
+      {
+        "Rank": "54",
+        "SongTitle": "Wagon Wheel",
+        "Artist": "Darius Rucker"
+      },
+      {
+        "Rank": "55",
+        "SongTitle": "Gangnam Style",
+        "Artist": "Psy"
+      },
+      {
+        "Rank": "56",
+        "SongTitle": "I Need Your Love",
+        "Artist": "Calvin Harris feat. Ellie Goulding"
+      },
+      {
+        "Rank": "57",
+        "SongTitle": "Die Young",
+        "Artist": "Ke$ha"
+      },
+      {
+        "Rank": "58",
+        "SongTitle": "Some Nights",
+        "Artist": "fun."
+      },
+      {
+        "Rank": "59",
+        "SongTitle": "Bad",
+        "Artist": "Wale feat. Tiara Thomas or Rihanna"
+      },
+      {
+        "Rank": "60",
+        "SongTitle": "Boys 'Round Here",
+        "Artist": "Blake Shelton feat. Pistol Annies and Friends"
+      },
+      {
+        "Rank": "61",
+        "SongTitle": "Gone, Gone, Gone",
+        "Artist": "Phillip Phillips"
+      },
+      {
+        "Rank": "62",
+        "SongTitle": "Demons",
+        "Artist": "Imagine Dragons"
+      },
+      {
+        "Rank": "63",
+        "SongTitle": "Counting Stars",
+        "Artist": "OneRepublic"
+      },
+      {
+        "Rank": "64",
+        "SongTitle": "I Cry",
+        "Artist": "Flo Rida"
+      },
+      {
+        "Rank": "65",
+        "SongTitle": "Little Talks",
+        "Artist": "Of Monsters And Men"
+      },
+      {
+        "Rank": "66",
+        "SongTitle": "The Other Side",
+        "Artist": "Jason Derulo"
+      },
+      {
+        "Rank": "67",
+        "SongTitle": "Berzerk",
+        "Artist": "Eminem"
+      },
+      {
+        "Rank": "68",
+        "SongTitle": "Catch My Breath",
+        "Artist": "Kelly Clarkson"
+      },
+      {
+        "Rank": "69",
+        "SongTitle": "Crash My Party",
+        "Artist": "Luke Bryan"
+      },
+      {
+        "Rank": "70",
+        "SongTitle": "Pour It Up",
+        "Artist": "Rihanna"
+      },
+      {
+        "Rank": "71",
+        "SongTitle": "22",
+        "Artist": "Taylor Swift"
+      },
+      {
+        "Rank": "72",
+        "SongTitle": "I Want Crazy",
+        "Artist": "Hunter Hayes"
+      },
+      {
+        "Rank": "73",
+        "SongTitle": "The Fox",
+        "Artist": "Ylvis"
+      },
+      {
+        "Rank": "74",
+        "SongTitle": "Best Song Ever",
+        "Artist": "One Direction"
+      },
+      {
+        "Rank": "75",
+        "SongTitle": "The A Team",
+        "Artist": "Ed Sheeran"
+      },
+      {
+        "Rank": "76",
+        "SongTitle": "Carry On",
+        "Artist": "fun."
+      },
+      {
+        "Rank": "77",
+        "SongTitle": "Highway Don't Care",
+        "Artist": "Tim McGraw with Taylor Swift"
+      },
+      {
+        "Rank": "78",
+        "SongTitle": "That's My Kind Of Night",
+        "Artist": "Luke Bryan"
+      },
+      {
+        "Rank": "79",
+        "SongTitle": "Swimming Pools (Drank)",
+        "Artist": "Kendrick Lamar"
+      },
+      {
+        "Rank": "80",
+        "SongTitle": "Sure Be Cool If You Did",
+        "Artist": "Blake Shelton"
+      },
+      {
+        "Rank": "81",
+        "SongTitle": "#Beautiful",
+        "Artist": "Mariah Carey feat. Miguel"
+      },
+      {
+        "Rank": "82",
+        "SongTitle": "Troublemaker",
+        "Artist": "Olly Murs feat. Flo Rida"
+      },
+      {
+        "Rank": "83",
+        "SongTitle": "Body Party",
+        "Artist": "Ciara"
+      },
+      {
+        "Rank": "84",
+        "SongTitle": "Adorn",
+        "Artist": "Miguel"
+      },
+      {
+        "Rank": "85",
+        "SongTitle": "Hall Of Fame",
+        "Artist": "The Script feat. will.i.am"
+      },
+      {
+        "Rank": "86",
+        "SongTitle": "Let Me Love You (Until You Learn To Love Yourself)",
+        "Artist": "Ne-Yo"
+      },
+      {
+        "Rank": "87",
+        "SongTitle": "U.O.E.N.O.",
+        "Artist": "Rocko feat. Future and Rick Ross"
+      },
+      {
+        "Rank": "88",
+        "SongTitle": "Next To Me",
+        "Artist": "Emeli Sande"
+      },
+      {
+        "Rank": "89",
+        "SongTitle": "Mama's Broken Heart",
+        "Artist": "Miranda Lambert"
+      },
+      {
+        "Rank": "90",
+        "SongTitle": "It Goes Like This",
+        "Artist": "Thomas Rhett"
+      },
+      {
+        "Rank": "91",
+        "SongTitle": "Bugatti",
+        "Artist": "Ace Hood feat. Future and Rick Ross"
+      },
+      {
+        "Rank": "92",
+        "SongTitle": "Wanted",
+        "Artist": "Hunter Hayes"
+      },
+      {
+        "Rank": "93",
+        "SongTitle": "Downtown",
+        "Artist": "Lady Antebellum"
+      },
+      {
+        "Rank": "94",
+        "SongTitle": "Get Your Shine On",
+        "Artist": "Florida Georgia Line"
+      },
+      {
+        "Rank": "95",
+        "SongTitle": "#thatPOWER",
+        "Artist": "will.i.am feat. Justin Bieber"
+      },
+      {
+        "Rank": "96",
+        "SongTitle": "Brave",
+        "Artist": "Sara Bareilles"
+      },
+      {
+        "Rank": "97",
+        "SongTitle": "Let Her Go",
+        "Artist": "Passenger"
+      },
+      {
+        "Rank": "98",
+        "SongTitle": "Runnin' Outta Moonlight",
+        "Artist": "Randy Houser"
+      },
+      {
+        "Rank": "99",
+        "SongTitle": "I'm Different",
+        "Artist": "2 Chainz"
+      },
+      {
+        "Rank": "100",
+        "SongTitle": "Still Into You",
+        "Artist": "Paramore"
+      }
+    ]
+  }
+}

@@ -1,0 +1,61 @@
+body{
+	float:left;
+	display: inline;
+	font-family: 'Alegreya Sans', sans-serif;
+	background-color: #faebdc;
+	padding-left: 40px;
+	padding-right: 40px;
+	height: 120%;
+}
+
+h1{
+	margin-bottom: 5px;
+}
+
+#legend{
+	font-size: 13px;
+}
+
+#pop, #hiphop, #country, #rnb, #hiphouse, #altrock,
+#edm, #indiepop, #soul{
+	line-height: 0;
+}
+
+table{
+	width: 100%;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+table td{
+	vertical-align: top;
+	padding-left: 7px;
+	padding-right: 7px;
+	width: 50%;
+}
+
+#lyrics1, #lyrics2, #lyrics, #graph{
+	text-align: center
+}
+
+#lyrics, #graph{
+	font-size: 13px;
+}
+
+#data{
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 15px;
+	height: 20px;
+	width: 300px;
+	text-align: center;
+}
+
+#songs{
+	display: block;
+	vertical-align: bottom
+}
+
+#songs img{
+	display: inline-block;
+}
